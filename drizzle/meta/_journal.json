@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1760600883327,
+      "tag": "0000_oval_gamora",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1760601016080,
+      "tag": "0001_complex_hellion",
+      "breakpoints": true
+    }
+  ]
+}
