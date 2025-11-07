@@ -168,9 +168,13 @@ npm install
 bun install
 ```
 
-3. **Set up environment variables**
+3. ** a) Set up environment variables**
 ```bash
 cp .env.example .env.local
+```
+   ** b) Edit .env file**
+```bash
+Replace the placeholder values (e.g. <your_api_key_here> etc.) with your actual credentials.
 ```
 
 Edit `.env.local` and add your API keys:
@@ -506,7 +510,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ for the modern workforce**
 
 Made by [Your Team] | © 2025 FinPal
-
-[Website](https://finpal.app) • [Blog](https://blog.finpal.app) • [Careers](https://finpal.app/careers)
 
 </div>
