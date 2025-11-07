@@ -31,10 +31,11 @@
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **FinPal** is an AI-powered financial companion designed specifically for gig workers, freelancers, and informal sector employees who face income volatility. Unlike traditional budgeting apps built for predictable monthly salaries, FinPal understands and adapts to irregular income patterns, providing proactive financial coaching that helps users navigate uncertainty with confidence.
 
@@ -54,7 +55,7 @@ FinPal changes this by being:
 
 ---
 
-## 🚨 The Problem We're Solving
+## The Problem We're Solving
 
 ### Target Users
 
@@ -76,7 +77,7 @@ The real problem isn't just tracking expenses—it's **financial anxiety**. The 
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### Phase 1 (MVP - Current Implementation)
 
@@ -112,7 +113,7 @@ The real problem isn't just tracking expenses—it's **financial anxiety**. The 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework**: Next.js 15 (React)
@@ -145,7 +146,7 @@ The real problem isn't just tracking expenses—it's **financial anxiety**. The 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -219,7 +220,7 @@ http://localhost:3000
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 finpal/
@@ -260,7 +261,7 @@ finpal/
 
 ---
 
-## 📡 API Documentation
+## API Documentation
 
 ### Authentication
 
@@ -346,7 +347,7 @@ Chat with AI coach
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ### Core System Flow
 
@@ -390,7 +391,7 @@ Settings & Preferences
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Vercel (Recommended)
 
@@ -417,7 +418,7 @@ Ensure all environment variables are set in your hosting platform:
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 
 ### Phase 2 (Fast Follow - Next 3 Months)
 - [ ] Manual transaction input for cash spending
@@ -437,7 +438,7 @@ Ensure all environment variables are set in your hosting platform:
 
 ---
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 ### UI/UX Principles
 - **Clean**: Minimal, uncluttered interface
@@ -454,7 +455,7 @@ Ensure all environment variables are set in your hosting platform:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Run Tests
 ```bash
@@ -468,7 +469,7 @@ npm test
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
 
@@ -481,34 +482,23 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Plaid](https://plaid.com/) for financial data aggregation
 - [Shadcn/UI](https://ui.shadcn.com/) for beautiful components
 - [Vercel](https://vercel.com/) for hosting and deployment
 - The freelance and gig worker community for inspiration
 
----
-
-## 📞 Support
-
-- **Documentation**: [docs.finpal.app](https://docs.finpal.app)
-- **Email**: support@finpal.app
-- **Twitter**: [@finpal_app](https://twitter.com/finpal_app)
-- **Discord**: [Join our community](https://discord.gg/finpal)
-
----
-
 <div align="center">
 
 **Built with ❤️ for the modern workforce**
 
-Made by [Your Team] | © 2025 FinPal
+Made by [Preekshit Saklani](https://github.com/preekshitsaklani) and [Vedant Goyal](https://github.com/Vedantxgoyal)
 
 </div>
