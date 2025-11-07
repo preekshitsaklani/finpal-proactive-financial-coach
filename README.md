@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Demo](https://finpal-proactive-financial-coach.vercel.app/) • [Documentation](#documentation) • [Report Bug](https://github.com/yourusername/finpal/issues)
+[Demo](https://finpal-proactive-financial-coach.vercel.app/) • [Documentation](https://github.com/preekshitsaklani/finpal-proactive-financial-coach/blob/main/README.md) • [Report Bug](https://github.com/preekshitsaklani/finpal-proactive-financial-coach/issues)
 
 </div>
 
